@@ -5,3 +5,10 @@ D:\Visual Studio_ejercicios\Convertidor\ServiciosConvertidor\obj\Debug\Servicios
 D:\Visual Studio_ejercicios\Convertidor\ServiciosConvertidor\obj\Debug\ServiciosConvertidor.csproj.CoreCompileInputs.cache
 D:\Visual Studio_ejercicios\Convertidor\ServiciosConvertidor\obj\Debug\ServiciosConvertidor.dll
 D:\Visual Studio_ejercicios\Convertidor\ServiciosConvertidor\obj\Debug\ServiciosConvertidor.pdb
+D:\GitHub\IS_TCS_FEB2023\Convertidor\ServiciosConvertidor\bin\Debug\ServiciosConvertidor.dll.config
+D:\GitHub\IS_TCS_FEB2023\Convertidor\ServiciosConvertidor\bin\Debug\ServiciosConvertidor.dll
+D:\GitHub\IS_TCS_FEB2023\Convertidor\ServiciosConvertidor\bin\Debug\ServiciosConvertidor.pdb
+D:\GitHub\IS_TCS_FEB2023\Convertidor\ServiciosConvertidor\obj\Debug\ServiciosConvertidor.csproj.AssemblyReference.cache
+D:\GitHub\IS_TCS_FEB2023\Convertidor\ServiciosConvertidor\obj\Debug\ServiciosConvertidor.csproj.CoreCompileInputs.cache
+D:\GitHub\IS_TCS_FEB2023\Convertidor\ServiciosConvertidor\obj\Debug\ServiciosConvertidor.dll
+D:\GitHub\IS_TCS_FEB2023\Convertidor\ServiciosConvertidor\obj\Debug\ServiciosConvertidor.pdb
