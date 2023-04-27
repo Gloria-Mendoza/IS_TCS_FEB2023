@@ -1,0 +1,7 @@
+D:\Visual Studio_ejercicios\Convertidor\ServiciosConvertidor\bin\Debug\ServiciosConvertidor.dll.config
+D:\Visual Studio_ejercicios\Convertidor\ServiciosConvertidor\bin\Debug\ServiciosConvertidor.dll
+D:\Visual Studio_ejercicios\Convertidor\ServiciosConvertidor\bin\Debug\ServiciosConvertidor.pdb
+D:\Visual Studio_ejercicios\Convertidor\ServiciosConvertidor\obj\Debug\ServiciosConvertidor.csproj.AssemblyReference.cache
+D:\Visual Studio_ejercicios\Convertidor\ServiciosConvertidor\obj\Debug\ServiciosConvertidor.csproj.CoreCompileInputs.cache
+D:\Visual Studio_ejercicios\Convertidor\ServiciosConvertidor\obj\Debug\ServiciosConvertidor.dll
+D:\Visual Studio_ejercicios\Convertidor\ServiciosConvertidor\obj\Debug\ServiciosConvertidor.pdb
