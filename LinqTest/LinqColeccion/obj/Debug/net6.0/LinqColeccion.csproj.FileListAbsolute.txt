@@ -1,0 +1,30 @@
+D:\Visual Studio_ejercicios\LinqTest\LinqColeccion\bin\Debug\net6.0\LinqColeccion.exe
+D:\Visual Studio_ejercicios\LinqTest\LinqColeccion\bin\Debug\net6.0\LinqColeccion.deps.json
+D:\Visual Studio_ejercicios\LinqTest\LinqColeccion\bin\Debug\net6.0\LinqColeccion.runtimeconfig.json
+D:\Visual Studio_ejercicios\LinqTest\LinqColeccion\bin\Debug\net6.0\LinqColeccion.dll
+D:\Visual Studio_ejercicios\LinqTest\LinqColeccion\bin\Debug\net6.0\LinqColeccion.pdb
+D:\Visual Studio_ejercicios\LinqTest\LinqColeccion\obj\Debug\net6.0\LinqColeccion.csproj.AssemblyReference.cache
+D:\Visual Studio_ejercicios\LinqTest\LinqColeccion\obj\Debug\net6.0\LinqColeccion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio_ejercicios\LinqTest\LinqColeccion\obj\Debug\net6.0\LinqColeccion.AssemblyInfoInputs.cache
+D:\Visual Studio_ejercicios\LinqTest\LinqColeccion\obj\Debug\net6.0\LinqColeccion.AssemblyInfo.cs
+D:\Visual Studio_ejercicios\LinqTest\LinqColeccion\obj\Debug\net6.0\LinqColeccion.csproj.CoreCompileInputs.cache
+D:\Visual Studio_ejercicios\LinqTest\LinqColeccion\obj\Debug\net6.0\LinqColeccion.dll
+D:\Visual Studio_ejercicios\LinqTest\LinqColeccion\obj\Debug\net6.0\refint\LinqColeccion.dll
+D:\Visual Studio_ejercicios\LinqTest\LinqColeccion\obj\Debug\net6.0\LinqColeccion.pdb
+D:\Visual Studio_ejercicios\LinqTest\LinqColeccion\obj\Debug\net6.0\LinqColeccion.genruntimeconfig.cache
+D:\Visual Studio_ejercicios\LinqTest\LinqColeccion\obj\Debug\net6.0\ref\LinqColeccion.dll
+D:\GitHub\IS_TCS_FEB2023\LinqTest\LinqColeccion\bin\Debug\net6.0\LinqColeccion.exe
+D:\GitHub\IS_TCS_FEB2023\LinqTest\LinqColeccion\bin\Debug\net6.0\LinqColeccion.deps.json
+D:\GitHub\IS_TCS_FEB2023\LinqTest\LinqColeccion\bin\Debug\net6.0\LinqColeccion.runtimeconfig.json
+D:\GitHub\IS_TCS_FEB2023\LinqTest\LinqColeccion\bin\Debug\net6.0\LinqColeccion.dll
+D:\GitHub\IS_TCS_FEB2023\LinqTest\LinqColeccion\bin\Debug\net6.0\LinqColeccion.pdb
+D:\GitHub\IS_TCS_FEB2023\LinqTest\LinqColeccion\obj\Debug\net6.0\LinqColeccion.csproj.AssemblyReference.cache
+D:\GitHub\IS_TCS_FEB2023\LinqTest\LinqColeccion\obj\Debug\net6.0\LinqColeccion.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\IS_TCS_FEB2023\LinqTest\LinqColeccion\obj\Debug\net6.0\LinqColeccion.AssemblyInfoInputs.cache
+D:\GitHub\IS_TCS_FEB2023\LinqTest\LinqColeccion\obj\Debug\net6.0\LinqColeccion.AssemblyInfo.cs
+D:\GitHub\IS_TCS_FEB2023\LinqTest\LinqColeccion\obj\Debug\net6.0\LinqColeccion.csproj.CoreCompileInputs.cache
+D:\GitHub\IS_TCS_FEB2023\LinqTest\LinqColeccion\obj\Debug\net6.0\LinqColeccion.dll
+D:\GitHub\IS_TCS_FEB2023\LinqTest\LinqColeccion\obj\Debug\net6.0\refint\LinqColeccion.dll
+D:\GitHub\IS_TCS_FEB2023\LinqTest\LinqColeccion\obj\Debug\net6.0\LinqColeccion.pdb
+D:\GitHub\IS_TCS_FEB2023\LinqTest\LinqColeccion\obj\Debug\net6.0\LinqColeccion.genruntimeconfig.cache
+D:\GitHub\IS_TCS_FEB2023\LinqTest\LinqColeccion\obj\Debug\net6.0\ref\LinqColeccion.dll
